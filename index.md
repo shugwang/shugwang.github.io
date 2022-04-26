@@ -1,23 +1,7 @@
 ## Welcome to shug's pages
 
-### Markdown
+### 学习笔记
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+一、[高等数学]()
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### 我的日志
